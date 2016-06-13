@@ -27,8 +27,8 @@
 | cordova-coho | [![Build Status](https://travis-ci.org/apache/cordova-coho.svg?branch=master)](https://travis-ci.org/apache/cordova-coho) | [![Build Status](https://ci.appveyor.com/api/projects/status/1y9yh5ys72h6l5sy)](https://ci.appveyor.com/project/stumped2/cordova-coho) | missing |
 | cordova-paramedic | [![Build Status](https://travis-ci.org/apache/cordova-paramedic.svg?branch=master)](https://travis-ci.org/purplecabbage/cordova-paramedic) | missing | missing |
 | cordova-cli | [![Build Status](https://travis-ci.org/apache/cordova-cli.svg?branch=master)](https://travis-ci.org/apache/cordova-cli) | missing | missing |
-| cordova-common | missing | missing | missing |
-| cordova-fetch | missing | missing | missing |
+| cordova-common | see cordova-lib | see cordova-lib | see cordova-lib |
+| cordova-fetch | see cordova-lib | see cordova-lib | see cordova-lib |
 | cordova-serve | missing | missing | missing |
 | cordova-plugman | missing | missing | missing |
 | cordova-docs | missing | missing | missing |
