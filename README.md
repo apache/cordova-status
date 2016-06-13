@@ -22,7 +22,7 @@
 
 | Tools         | Travis-CI     | AppVeyor      | Code Coverage |
 | :-: | :-: | :-: | :-: |
-| cordova-js    | [![Build Status](https://travis-ci.org/apache/cordova-js.svg?branch=master)](https://travis-ci.org/apache/cordova-js) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-js?branch=master&svg=true)](https://ci.appveyor.com/project/Humbedooh/cordova-js/branch/master) | missing |
+| cordova-js    | [![Build Status](https://travis-ci.org/apache/cordova-js.svg?branch=master)](https://travis-ci.org/apache/cordova-js) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-js)](https://ci.appveyor.com/project/Humbedooh/cordova-js/branch/master) | missing |
 | cordova-lib | [![Build Status](https://travis-ci.org/apache/cordova-lib.svg?branch=master)](https://travis-ci.org/apache/cordova-lib) | [![Build status](https://ci.appveyor.com/api/projects/status/q9s459ssqvs1t7j6/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-lib) | [![Code coverage](https://codecov.io/github/apache/cordova-lib/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-lib?branch=master) |
 | cordova-coho | [![Build Status](https://travis-ci.org/apache/cordova-coho.svg?branch=master)](https://travis-ci.org/apache/cordova-coho) | [![Build Status](https://ci.appveyor.com/api/projects/status/1y9yh5ys72h6l5sy)](https://ci.appveyor.com/project/stumped2/cordova-coho) | missing |
 | cordova-paramedic | [![Build Status](https://travis-ci.org/apache/cordova-paramedic.svg?branch=master)](https://travis-ci.org/purplecabbage/cordova-paramedic) | missing | missing |
