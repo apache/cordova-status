@@ -1,7 +1,7 @@
 # cordova-status
 
 | Core Platform | Travis-CI     | AppVeyor      | Code Coverage |
-| ------------- | ------------- | ------------- | ------------- |
+| :-: | :-: | :-: | :-: |
 | iOS  | [![Build Status](https://travis-ci.org/apache/cordova-ios.svg?branch=master)](https://travis-ci.org/apache/cordova-ios)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-ios?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-ios) |[![codecov.io](https://codecov.io/github/apache/cordova-ios/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-ios?branch=master)  |
 | Android  | [![Build Status](https://travis-ci.org/apache/cordova-android.svg?branch=master)](https://travis-ci.org/apache/cordova-android)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-android?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-android) | [![codecov.io](https://codecov.io/github/apache/cordova-android/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-android?branch=master)  |
 | Windows | [![Build Status](https://travis-ci.org/apache/cordova-windows.svg?branch=master)](https://travis-ci.org/apache/cordova-windows) | [![Build status](https://ci.appveyor.com/api/projects/status/19h1fq0lyvwtei05/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-windows/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-windows/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-windows?branch=master) |
@@ -21,7 +21,7 @@
 ---
 
 | Tools         | Travis-CI     | AppVeyor      | Code Coverage |
-| ------------- | ------------- | ------------- | ------------- |
+| :-: | :-: | :-: | :-: |
 | cordova-js    | [![Build Status](https://travis-ci.org/apache/cordova-js.svg?branch=master)](https://travis-ci.org/apache/cordova-js) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-js?branch=master&svg=true)](https://ci.appveyor.com/project/Humbedooh/cordova-js/branch/master) | missing |
 | cordova-lib | [![Build Status](https://travis-ci.org/apache/cordova-lib.svg?branch=master)](https://travis-ci.org/apache/cordova-lib) | [![Build status](https://ci.appveyor.com/api/projects/status/q9s459ssqvs1t7j6/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-lib) | [![Code coverage](https://codecov.io/github/apache/cordova-lib/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-lib?branch=master) |
 | cordova-coho | [![Build Status](https://travis-ci.org/apache/cordova-coho.svg?branch=master)](https://travis-ci.org/apache/cordova-coho) | [![Build Status](https://ci.appveyor.com/api/projects/status/1y9yh5ys72h6l5sy)](https://ci.appveyor.com/project/stumped2/cordova-coho) | missing |
@@ -69,6 +69,6 @@
 ---
 
 | Plugin Tools  | Travis-CI     | AppVeyor      | Code Coverage |
-| ------------- | ------------- | ------------- | ------------- |
+| :-: | :-: | :-: | :-: |
 | cordova-plugin-wkwebview-engine | [![Build Status](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine) | missing | missing | 
 | cordova-plugin-test-framework | [![Build Status](https://travis-ci.org/apache/cordova-plugin-test-framework.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-test-framework) | missing | missing | 
