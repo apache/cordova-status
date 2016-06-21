@@ -21,22 +21,22 @@
 ---
 
 | Tools         | Travis-CI     | AppVeyor      | Code Coverage |
-| :-: | :-: | :-: | :-: |
-| cordova-js    | [![Build Status](https://travis-ci.org/apache/cordova-js.svg?branch=master)](https://travis-ci.org/apache/cordova-js) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-js)](https://ci.appveyor.com/project/Humbedooh/cordova-js/branch/master) | missing |
-| cordova-lib | [![Build Status](https://travis-ci.org/apache/cordova-lib.svg?branch=master)](https://travis-ci.org/apache/cordova-lib) | [![Build status](https://ci.appveyor.com/api/projects/status/q9s459ssqvs1t7j6/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-lib) | [![Code coverage](https://codecov.io/github/apache/cordova-lib/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-lib?branch=master) |
-| cordova-coho | [![Build Status](https://travis-ci.org/apache/cordova-coho.svg?branch=master)](https://travis-ci.org/apache/cordova-coho) | [![Build Status](https://ci.appveyor.com/api/projects/status/1y9yh5ys72h6l5sy)](https://ci.appveyor.com/project/stumped2/cordova-coho) | missing |
-| cordova-paramedic | [![Build Status](https://travis-ci.org/apache/cordova-paramedic.svg?branch=master)](https://travis-ci.org/purplecabbage/cordova-paramedic) | missing | missing |
-| cordova-cli | [![Build Status](https://travis-ci.org/apache/cordova-cli.svg?branch=master)](https://travis-ci.org/apache/cordova-cli) | missing | missing |
-| cordova-common | see cordova-lib | see cordova-lib | see cordova-lib |
-| cordova-fetch | see cordova-lib | see cordova-lib | see cordova-lib |
-| cordova-serve | missing | missing | missing |
-| cordova-plugman | missing | missing | missing |
-| cordova-docs | missing | missing | missing |
-| cordova-medic | missing | missing | missing |
-| cordova-mobile-spec | missing | missing | missing |
-| cordova-weinre | missing | missing | missing |
-| cordova-app-hello-world | missing | missing | missing |
-| cordova-app-harness | missing | missing | missing |
+| --- | :-: | :-: | :-: |
+| [cordova-js](https://github.com/apache/cordova-js)    | [![Build Status](https://travis-ci.org/apache/cordova-js.svg?branch=master)](https://travis-ci.org/apache/cordova-js) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-js)](https://ci.appveyor.com/project/Humbedooh/cordova-js/branch/master) | missing |
+| [cordova-lib](https://github.com/apache/cordova-lib/tree/master/cordova-lib) | [![Build Status](https://travis-ci.org/apache/cordova-lib.svg?branch=master)](https://travis-ci.org/apache/cordova-lib) | [![Build status](https://ci.appveyor.com/api/projects/status/q9s459ssqvs1t7j6/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-lib) | [![Code coverage](https://codecov.io/github/apache/cordova-lib/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-lib?branch=master) |
+| [cordova-coho](https://github.com/apache/cordova-coho) | [![Build Status](https://travis-ci.org/apache/cordova-coho.svg?branch=master)](https://travis-ci.org/apache/cordova-coho) | [![Build Status](https://ci.appveyor.com/api/projects/status/1y9yh5ys72h6l5sy)](https://ci.appveyor.com/project/stumped2/cordova-coho) | missing |
+| [cordova-paramedic](https://github.com/apache/cordova-paramedic) | [![Build Status](https://travis-ci.org/apache/cordova-paramedic.svg?branch=master)](https://travis-ci.org/purplecabbage/cordova-paramedic) | missing | missing |
+| [cordova-cli](https://github.com/apache/cordova-cli) | [![Build Status](https://travis-ci.org/apache/cordova-cli.svg?branch=master)](https://travis-ci.org/apache/cordova-cli) | missing | missing |
+| [cordova-common](https://github.com/apache/cordova-lib/tree/master/cordova-common) | see cordova-lib | see cordova-lib | see cordova-lib |
+| [cordova-fetch](https://github.com/apache/cordova-lib/tree/master/cordova-fetch) | see cordova-lib | see cordova-lib | see cordova-lib |
+| [cordova-serve](https://github.com/apache/cordova-lib/tree/master/cordova-serve) | missing | missing | missing |
+| [cordova-plugman](https://github.com/apache/cordova-plugman) | missing | missing | missing |
+| [cordova-docs](https://github.com/apache/cordova-docs) | missing | missing | missing |
+| [cordova-medic](https://github.com/apache/cordova-medic) | missing | missing | missing |
+| [cordova-mobile-spec](https://github.com/apache/cordova-mobile-spec) | missing | missing | missing |
+| [cordova-weinre](https://github.com/apache/cordova-weinre) | missing | missing | missing |
+| [cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world) | missing | missing | missing |
+| [cordova-app-harness](https://github.com/apache/cordova-app-harness) | missing | missing | missing |
 
 ---
 
