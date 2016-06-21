@@ -1,22 +1,22 @@
 # cordova-status
 
 | Core Platform | Travis-CI     | AppVeyor      | Code Coverage |
-| :-: | :-: | :-: | :-: |
-| iOS  | [![Build Status](https://travis-ci.org/apache/cordova-ios.svg?branch=master)](https://travis-ci.org/apache/cordova-ios)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-ios?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-ios) |[![codecov.io](https://codecov.io/github/apache/cordova-ios/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-ios?branch=master)  |
-| Android  | [![Build Status](https://travis-ci.org/apache/cordova-android.svg?branch=master)](https://travis-ci.org/apache/cordova-android)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-android?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-android) | [![codecov.io](https://codecov.io/github/apache/cordova-android/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-android?branch=master)  |
-| Windows | [![Build Status](https://travis-ci.org/apache/cordova-windows.svg?branch=master)](https://travis-ci.org/apache/cordova-windows) | [![Build status](https://ci.appveyor.com/api/projects/status/19h1fq0lyvwtei05/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-windows/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-windows/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-windows?branch=master) |
-| WP8 | n/a | [![Build status](https://ci.appveyor.com/api/projects/status/apoby7i5j5xnmhy2/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-wp8/branch/master) | missing |
-| Browser | [![Build Status](https://travis-ci.org/apache/cordova-browser.svg)](https://travis-ci.org/apache/cordova-browser) | missing | missing |
-| OS X | missing | missing | missing |
-| Ubuntu | missing | missing | missing |
-| Firefox OS | missing | missing | missing |
-| Blackberry 10 | missing | missing | missing |
-| webOS | missing | missing | missing |
-| Amazon Fire OS | missing | missing | missing |
-| Bada WAC | missing | missing | missing |
-| Bada | missing | missing | missing |
-| Tizen | missing | missing | missing |
-| Qt | missing | missing | missing |
+| --- | :-: | :-: | :-: |
+| [iOS](https://github.com/apache/cordova-ios)  | [![Build Status](https://travis-ci.org/apache/cordova-ios.svg?branch=master)](https://travis-ci.org/apache/cordova-ios)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-ios?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-ios) |[![codecov.io](https://codecov.io/github/apache/cordova-ios/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-ios?branch=master)  |
+| [Android](https://github.com/apache/cordova-android)  | [![Build Status](https://travis-ci.org/apache/cordova-android.svg?branch=master)](https://travis-ci.org/apache/cordova-android)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-android?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-android) | [![codecov.io](https://codecov.io/github/apache/cordova-android/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-android?branch=master)  |
+| [Windows](https://github.com/apache/cordova-windows) | [![Build Status](https://travis-ci.org/apache/cordova-windows.svg?branch=master)](https://travis-ci.org/apache/cordova-windows) | [![Build status](https://ci.appveyor.com/api/projects/status/19h1fq0lyvwtei05/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-windows/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-windows/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-windows?branch=master) |
+| [WP8](https://github.com/apache/cordova-wp8) | n/a | [![Build status](https://ci.appveyor.com/api/projects/status/apoby7i5j5xnmhy2/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-wp8/branch/master) | missing |
+| [Browser](https://github.com/apache/cordova-browser) | [![Build Status](https://travis-ci.org/apache/cordova-browser.svg)](https://travis-ci.org/apache/cordova-browser) | missing | missing |
+| [OS X](https://github.com/apache/cordova-osx) | missing | missing | missing |
+| [Ubuntu](https://github.com/apache/cordova-ubuntu) | missing | missing | missing |
+| [Firefox OS](https://github.com/apache/cordova-firefoxos) | missing | missing | missing |
+| [Blackberry 10](https://github.com/apache/cordova-blackberry) | missing | missing | missing |
+| [webOS](https://github.com/apache/cordova-webos) | missing | missing | missing |
+| [Amazon Fire OS](https://github.com/apache/cordova-amazon-fireos) | missing | missing | missing |
+| [Bada WAC](https://github.com/apache/cordova-bada-wac) | missing | missing | missing |
+| [Bada](https://github.com/apache/cordova-bada) | missing | missing | missing |
+| [Tizen](https://github.com/apache/cordova-tizen) | missing | missing | missing |
+| [Qt](https://github.com/apache/cordova-qt) | missing | missing | missing |
 
 ---
 
