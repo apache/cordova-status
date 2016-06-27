@@ -1,4 +1,13 @@
-# cordova-status
+If you update the table below, update the [Github Pages site](http://cordova.github.io/cordova-status):
+
+1. Go to the [Automatic Page Generator](https://github.com/cordova/cordova-status/generated_pages/new)
+2. Click on the button **Load README.md**
+3. Edit the text to remove these instructions
+4. Click on **Continue to layouts**
+5. Choose the **Modernist** layout
+6. Click on **Publish page**
+7. Edit the generated HTML to remove the two "Download as.." buttons
+
 
 | Core Platform | Travis-CI     | AppVeyor      | Code Coverage |
 | :--- | :---: | :---: | :---: |
