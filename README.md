@@ -81,5 +81,4 @@ If you update the table below, update the [Github Pages site](http://cordova.git
 
 | Plugin Tools  | Travis-CI     | AppVeyor      | Code Coverage |
 | :--- | :---: | :---: | :---: |
-| [cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine) | [![Build Status](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine) | missing | missing |
 | [cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) | [![Build Status](https://travis-ci.org/apache/cordova-plugin-test-framework.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-test-framework) | missing | missing |
