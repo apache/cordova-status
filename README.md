@@ -1,4 +1,4 @@
-If you update the table below, update the [Github Pages site](http://cordova.github.io/cordova-status):
+If you update the table below, update the [Github Pages site](http://apache.github.io/cordova-status):
 
 1. Go to the [Automatic Page Generator](https://github.com/cordova/cordova-status/generated_pages/new)
 2. Click on the button **Load README.md**
