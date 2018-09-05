@@ -5,7 +5,7 @@
 | [Android](https://github.com/apache/cordova-android)  | [![Build Status](https://travis-ci.org/apache/cordova-android.svg?branch=master)](https://travis-ci.org/apache/cordova-android)  | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-android?branch=master&svg=true)](https://ci.appveyor.com/project/Humbedooh/cordova-android/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-android/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-android?branch=master)  |
 | [Windows](https://github.com/apache/cordova-windows) | [![Build Status](https://travis-ci.org/apache/cordova-windows.svg?branch=master)](https://travis-ci.org/apache/cordova-windows) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-windows?branch=master&svg=true)](https://ci.appveyor.com/project/Humbedooh/cordova-windows/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-windows/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-windows?branch=master) |
 | [Browser](https://github.com/apache/cordova-browser) | [![Build Status](https://travis-ci.org/apache/cordova-browser.svg?branch=master)](https://travis-ci.org/apache/cordova-browser) | [![Build Status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-browser?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-browser/branch/master) | missing |
-| [OS X](https://github.com/apache/cordova-osx) | missing | missing | missing |
+| [OS X](https://github.com/apache/cordova-osx) | [![Build Status](https://travis-ci.org/apache/cordova-osx.svg?branch=master)](https://travis-ci.org/apache/cordova-osx) | missing | missing |
 
 ---
 
@@ -19,13 +19,13 @@
 | [cordova-common](https://github.com/apache/cordova-common) | [![Build Status](https://travis-ci.org/apache/cordova-common.svg?branch=master)](https://travis-ci.org/apache/cordova-common) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-common?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-common/branch/master) | [![codecov.io](https://codecov.io/github/apache/cordova-common/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-common?branch=master)  |
 | [cordova-fetch](https://github.com/apache/cordova-fetch) | [![Build Status](https://travis-ci.org/apache/cordova-fetch.svg?branch=master)](https://travis-ci.org/apache/cordova-fetch) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-fetch?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-fetch/branch/master) | missing |
 | [cordova-serve](https://github.com/apache/cordova-serve) | [![Build Status](https://travis-ci.org/apache/cordova-serve.svg?branch=master)](https://travis-ci.org/apache/cordova-serve) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-serve?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-serve/branch/master) | missing |
-| [cordova-plugman](https://github.com/apache/cordova-plugman) | missing | missing | missing |
+| [cordova-plugman](https://github.com/apache/cordova-plugman) | [![Build Status](https://travis-ci.org/apache/cordova-plugman.svg?branch=master)](https://travis-ci.org/apache/cordova-plugman) | missing | missing |
 | [cordova-docs](https://github.com/apache/cordova-docs) | [![Build Status](https://travis-ci.org/apache/cordova-docs.svg?branch=master)](https://travis-ci.org/apache/cordova-docs)  | missing | missing |
-| [cordova-medic](https://github.com/apache/cordova-medic) | missing | missing | missing |
-| [cordova-mobile-spec](https://github.com/apache/cordova-mobile-spec) | missing | missing | missing |
-| [cordova-weinre](https://github.com/apache/cordova-weinre) | missing | missing | missing |
-| [cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world) | missing | missing | missing |
-| [cordova-app-harness](https://github.com/apache/cordova-app-harness) | missing | missing | missing |
+| [cordova-medic](https://github.com/apache/cordova-medic) | [![Build Status](https://travis-ci.org/apache/cordova-medic.svg?branch=master)](https://travis-ci.org/apache/cordova-medic) | missing | missing |
+| [cordova-mobile-spec](https://github.com/apache/cordova-mobile-spec) | [![Build Status](https://travis-ci.org/apache/cordova-mobile-spec.svg?branch=master)](https://travis-ci.org/apache/cordova-mobile-spec) | missing | missing |
+| [cordova-weinre](https://github.com/apache/cordova-weinre) | [![Build Status](https://travis-ci.org/apache/cordova-weinre.svg?branch=master)](https://travis-ci.org/apache/cordova-weinre) | missing | missing |
+| [cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world) | [![Build Status](https://travis-ci.org/apache/cordova-app-hello-world.svg?branch=master)](https://travis-ci.org/apache/cordova-app-hello-world) | missing | missing |
+| [cordova-app-harness](https://github.com/apache/cordova-app-harness) | [![Build Status](https://travis-ci.org/apache/cordova-app-harness.svg?branch=master)](https://travis-ci.org/apache/cordova-app-harness) | missing | missing |
 
 ---
 
@@ -47,7 +47,7 @@
 | [cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization) |[![Build Status](https://travis-ci.org/apache/cordova-plugin-globalization.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-globalization) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-globalization?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-globalization/branch/master) | missing |
 | [cordova-plugin-screen-orientation](https://github.com/apache/cordova-plugin-screen-orientation) |[![Build Status](https://travis-ci.org/apache/cordova-plugin-screen-orientation.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-screen-orientation) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-screen-orientation?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-screen-orientation/branch/master) | missing |
 | [cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine) |[![Build Status](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-wkwebview-engine) | [![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-wkwebview-engine?branch=master&svg=true)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-wkwebview-engine/branch/master) | missing |
-| [cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) | missing | missing | missing |
+| [cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) | [![Build Status](https://travis-ci.org/apache/cordova-plugin-whitelist.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-whitelist) | missing | missing |
 
 
 ---
